@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS NO LONGER MAINTAINED AND ARCHIVED.
+
 = CMAK (prev. Kafka Manager) for Kubernetes
 :toc: macro
 :icons: font
